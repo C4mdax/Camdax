@@ -1,3 +1,6 @@
+Autor: Luis Angel Moreno Delgado
+Date: May, 2024
+
 # Camdax
 Camdax design details.
 ![Design](https://github.com/C4mdax/Camdax/blob/main/design.png?raw=true)
