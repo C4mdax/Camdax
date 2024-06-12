@@ -1,5 +1,5 @@
-Autor: Luis Angel Moreno Delgado
-Date: May, 2024
+- Autor: Luis Angel Moreno Delgado
+- Date: May, 2024
 
 # Camdax
 Camdax design details.
