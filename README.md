@@ -10,9 +10,3 @@ Camdax design details.
 
 ## Color
 ![Color](https://github.com/C4mdax/Camdax/blob/main/color.png?raw=true)
-
-## Reason
-![Reason](https://github.com/C4mdax/Camdax/blob/main/reason.png?raw=true)
-
-
-
